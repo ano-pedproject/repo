@@ -1,22 +1,22 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "$NAME_SITE1",
+    "url": "$URL_SITE1",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "name-site-1",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "14.49%",
+    "uptimeDay": "14.49%",
+    "uptimeWeek": "14.49%",
+    "uptimeMonth": "14.49%",
+    "uptimeYear": "14.49%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-02": 3
+      "2024-08-02": 0
     }
   }
 ]
