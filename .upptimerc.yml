@@ -5,6 +5,8 @@ repo: repo # The name of this repository
 sites:
   - name: Педакадемия.РФ
     url: https://xn--80aakcbevmvw9p.xn--p1ai
+  - name: Педпроект.РФ
+    url: https://xn--d1abbusdciv.xn--p1ai
   - name: Япедагог.РФ
     url: https://xn--80agabe1dc1k.xn--p1ai
   - name: Педталант.РФ
@@ -13,6 +15,10 @@ sites:
     url: https://xn----7sbabamch1evalo5aeg.xn--p1ai
   - name: Эверест
     url: https://everest-edu.ru
+  - name: Конкурсы & Олимпиады
+    url: https://konkurs.pedproject.moscow
+  - name: Вестник
+    url: https://vestnik.pedproject.moscow
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
