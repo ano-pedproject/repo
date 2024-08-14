@@ -112,19 +112,19 @@
     "url": "https://everest-edu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/everest-edu.ru.ico",
     "slug": "everest",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2961,
-    "timeDay": 4050,
-    "timeWeek": 3497,
-    "timeMonth": 2961,
-    "timeYear": 2961,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 2925,
+    "timeDay": 3088,
+    "timeWeek": 3360,
+    "timeMonth": 2925,
+    "timeYear": 2925,
     "dailyMinutesDown": {
-      "2024-08-14": 0
+      "2024-08-14": 70
     }
   },
   {
