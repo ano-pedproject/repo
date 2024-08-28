@@ -22,10 +22,10 @@
     "url": "https://xn--80aakcbevmvw9p.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakcbevmvw9p.xn--p1ai.ico",
     "slug": "pedakademiya-rf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2106,
@@ -33,17 +33,19 @@
     "timeWeek": 1204,
     "timeMonth": 2106,
     "timeYear": 2106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-28": 2
+    }
   },
   {
     "name": "Педпроект.РФ",
     "url": "https://xn--d1abbusdciv.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn--d1abbusdciv.xn--p1ai.ico",
     "slug": "pedproekt-rf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1456,
@@ -51,7 +53,9 @@
     "timeWeek": 1348,
     "timeMonth": 1456,
     "timeYear": 1456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-28": 1
+    }
   },
   {
     "name": "Япедагог.РФ",
@@ -76,10 +80,10 @@
     "url": "https://xn--80aakd6ani0ae.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakd6ani0ae.xn--p1ai.ico",
     "slug": "pedtalant-rf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1843,
@@ -87,16 +91,18 @@
     "timeWeek": 1147,
     "timeMonth": 1843,
     "timeYear": 1843,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-28": 1
+    }
   },
   {
     "name": "Радуга-талантов.РФ",
     "url": "https://xn----7sbabamch1evalo5aeg.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "raduga-talantov-rf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,25 +111,28 @@
     "timeWeek": 1167,
     "timeMonth": 1233,
     "timeYear": 1233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-28": 0
+    }
   },
   {
     "name": "Эверест",
     "url": "https://everest-edu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/everest-edu.ru.ico",
     "slug": "everest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
     "time": 2253,
-    "timeDay": 1028,
+    "timeDay": 1156,
     "timeWeek": 1222,
     "timeMonth": 2253,
     "timeYear": 2253,
     "dailyMinutesDown": {
+      "2024-08-28": 0,
       "2024-08-14": 70
     }
   },
