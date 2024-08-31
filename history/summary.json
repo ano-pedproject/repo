@@ -132,10 +132,10 @@
     "url": "https://konkurs.pedproject.moscow",
     "icon": "https://icons.duckduckgo.com/ip3/konkurs.pedproject.moscow.ico",
     "slug": "konkursy-and-olimpiady",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2042,
@@ -143,16 +143,18 @@
     "timeWeek": 1788,
     "timeMonth": 2042,
     "timeYear": 2042,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-31": 2
+    }
   },
   {
     "name": "Вестник",
     "url": "https://vestnik.pedproject.moscow",
     "icon": "https://icons.duckduckgo.com/ip3/vestnik.pedproject.moscow.ico",
     "slug": "vestnik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,6 +163,8 @@
     "timeWeek": 1990,
     "timeMonth": 2130,
     "timeYear": 2130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-31": 0
+    }
   }
 ]
