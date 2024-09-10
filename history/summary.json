@@ -94,18 +94,20 @@
     "url": "https://xn----7sbabamch1evalo5aeg.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "raduga-talantov-rf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1215,
-    "timeDay": 1301,
-    "timeWeek": 1327,
-    "timeMonth": 1227,
-    "timeYear": 1215,
-    "dailyMinutesDown": {}
+    "time": 1209,
+    "timeDay": 1133,
+    "timeWeek": 1282,
+    "timeMonth": 1219,
+    "timeYear": 1209,
+    "dailyMinutesDown": {
+      "2024-09-10": 0
+    }
   },
   {
     "name": "Эверест",
