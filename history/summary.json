@@ -94,19 +94,19 @@
     "url": "https://xn----7sbabamch1evalo5aeg.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "raduga-talantov-rf",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 1133,
-    "timeWeek": 1282,
-    "timeMonth": 1219,
-    "timeYear": 1209,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1212,
+    "timeDay": 1193,
+    "timeWeek": 1285,
+    "timeMonth": 1222,
+    "timeYear": 1212,
     "dailyMinutesDown": {
-      "2024-09-10": 0
+      "2024-09-10": 9
     }
   },
   {
