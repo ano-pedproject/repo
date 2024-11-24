@@ -22,36 +22,40 @@
     "url": "https://xn--80aakcbevmvw9p.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakcbevmvw9p.xn--p1ai.ico",
     "slug": "pedacademy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "90.32%",
+    "uptimeDay": "90.32%",
+    "uptimeWeek": "90.32%",
+    "uptimeMonth": "90.32%",
+    "uptimeYear": "90.32%",
     "time": 818,
     "timeDay": 818,
     "timeWeek": 818,
     "timeMonth": 818,
     "timeYear": 818,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 1
+    }
   },
   {
     "name": "Pedproject",
     "url": "https://xn--d1abbusdciv.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn--d1abbusdciv.xn--p1ai.ico",
     "slug": "pedproject",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "92.40%",
+    "uptimeDay": "92.40%",
+    "uptimeWeek": "92.40%",
+    "uptimeMonth": "92.40%",
+    "uptimeYear": "92.40%",
     "time": 741,
     "timeDay": 741,
     "timeWeek": 741,
     "timeMonth": 741,
     "timeYear": 741,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 1
+    }
   },
   {
     "name": "Yapedagog",
@@ -76,54 +80,60 @@
     "url": "https://xn--80aakd6ani0ae.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakd6ani0ae.xn--p1ai.ico",
     "slug": "pedtalant",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "94.59%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "94.59%",
+    "uptimeMonth": "94.59%",
+    "uptimeYear": "94.59%",
     "time": 673,
     "timeDay": 673,
     "timeWeek": 673,
     "timeMonth": 673,
     "timeYear": 673,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 1
+    }
   },
   {
     "name": "Rainbow",
     "url": "https://xn----7sbabamch1evalo5aeg.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "rainbow",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.80%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "96.80%",
     "time": 752,
     "timeDay": 752,
     "timeWeek": 752,
     "timeMonth": 752,
     "timeYear": 752,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 0
+    }
   },
   {
     "name": "Everest",
     "url": "https://everest-edu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/everest-edu.ru.ico",
     "slug": "everest",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
     "time": 938,
     "timeDay": 938,
     "timeWeek": 938,
     "timeMonth": 938,
     "timeYear": 938,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 0
+    }
   },
   {
     "name": "Konkurs",
