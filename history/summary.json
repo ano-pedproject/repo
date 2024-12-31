@@ -13,7 +13,7 @@
     "time": 1192,
     "timeDay": 1424,
     "timeWeek": 1356,
-    "timeMonth": 1254,
+    "timeMonth": 1246,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2024-12-11": 19
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakcbevmvw9p.xn--p1ai.ico",
     "slug": "pedacademy",
     "status": "up",
-    "uptime": "93.64%",
-    "uptimeDay": "83.67%",
-    "uptimeWeek": "80.11%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "93.64%",
+    "uptime": "93.62%",
+    "uptimeDay": "84.37%",
+    "uptimeWeek": "80.32%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "93.62%",
     "time": 1316,
-    "timeDay": 994,
-    "timeWeek": 1268,
-    "timeMonth": 1356,
+    "timeDay": 1010,
+    "timeWeek": 1269,
+    "timeMonth": 1343,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2024-12-30": 236,
+      "2024-12-30": 226,
       "2024-12-29": 283,
       "2024-12-28": 272,
       "2024-12-27": 308,
@@ -48,7 +48,7 @@
       "2024-12-21": 351,
       "2024-12-20": 142,
       "2024-12-19": 165,
-      "2024-12-18": 161
+      "2024-12-18": 188
     }
   },
   {
@@ -57,18 +57,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--d1abbusdciv.xn--p1ai.ico",
     "slug": "pedproject",
     "status": "up",
-    "uptime": "93.68%",
-    "uptimeDay": "83.81%",
-    "uptimeWeek": "80.23%",
-    "uptimeMonth": "92.45%",
-    "uptimeYear": "93.68%",
+    "uptime": "93.66%",
+    "uptimeDay": "84.49%",
+    "uptimeWeek": "80.44%",
+    "uptimeMonth": "92.42%",
+    "uptimeYear": "93.66%",
     "time": 1232,
-    "timeDay": 1040,
+    "timeDay": 1082,
     "timeWeek": 1287,
-    "timeMonth": 1238,
+    "timeMonth": 1232,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2024-12-30": 233,
+      "2024-12-30": 223,
       "2024-12-29": 281,
       "2024-12-28": 272,
       "2024-12-27": 305,
@@ -80,7 +80,7 @@
       "2024-12-21": 349,
       "2024-12-20": 141,
       "2024-12-19": 164,
-      "2024-12-18": 158
+      "2024-12-18": 185
     }
   },
   {
@@ -97,7 +97,7 @@
     "time": 1226,
     "timeDay": 1568,
     "timeWeek": 1419,
-    "timeMonth": 1291,
+    "timeMonth": 1280,
     "timeYear": 1226,
     "dailyMinutesDown": {}
   },
@@ -107,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakd6ani0ae.xn--p1ai.ico",
     "slug": "pedtalant",
     "status": "up",
-    "uptime": "93.73%",
-    "uptimeDay": "83.94%",
-    "uptimeWeek": "80.36%",
-    "uptimeMonth": "92.51%",
-    "uptimeYear": "93.73%",
+    "uptime": "93.71%",
+    "uptimeDay": "84.61%",
+    "uptimeWeek": "80.56%",
+    "uptimeMonth": "92.47%",
+    "uptimeYear": "93.71%",
     "time": 1159,
-    "timeDay": 985,
+    "timeDay": 1014,
     "timeWeek": 1150,
-    "timeMonth": 1184,
+    "timeMonth": 1176,
     "timeYear": 1159,
     "dailyMinutesDown": {
-      "2024-12-30": 231,
+      "2024-12-30": 221,
       "2024-12-29": 280,
       "2024-12-28": 271,
       "2024-12-27": 304,
@@ -130,7 +130,7 @@
       "2024-12-21": 345,
       "2024-12-20": 140,
       "2024-12-19": 164,
-      "2024-12-18": 157
+      "2024-12-18": 184
     }
   },
   {
@@ -139,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "rainbow",
     "status": "up",
-    "uptime": "93.71%",
-    "uptimeDay": "84.08%",
-    "uptimeWeek": "80.49%",
-    "uptimeMonth": "92.49%",
-    "uptimeYear": "93.71%",
+    "uptime": "93.69%",
+    "uptimeDay": "84.73%",
+    "uptimeWeek": "80.69%",
+    "uptimeMonth": "92.45%",
+    "uptimeYear": "93.69%",
     "time": 1145,
-    "timeDay": 931,
-    "timeWeek": 1143,
-    "timeMonth": 1164,
+    "timeDay": 954,
+    "timeWeek": 1146,
+    "timeMonth": 1163,
     "timeYear": 1145,
     "dailyMinutesDown": {
-      "2024-12-30": 229,
+      "2024-12-30": 220,
       "2024-12-29": 277,
       "2024-12-28": 269,
       "2024-12-27": 303,
@@ -162,7 +162,7 @@
       "2024-12-21": 343,
       "2024-12-20": 138,
       "2024-12-19": 161,
-      "2024-12-18": 187
+      "2024-12-18": 214
     }
   },
   {
@@ -171,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/everest-edu.ru.ico",
     "slug": "everest",
     "status": "up",
-    "uptime": "93.72%",
-    "uptimeDay": "84.22%",
-    "uptimeWeek": "81.06%",
-    "uptimeMonth": "92.50%",
-    "uptimeYear": "93.72%",
+    "uptime": "93.71%",
+    "uptimeDay": "84.85%",
+    "uptimeWeek": "81.26%",
+    "uptimeMonth": "92.47%",
+    "uptimeYear": "93.71%",
     "time": 1045,
-    "timeDay": 922,
+    "timeDay": 921,
     "timeWeek": 1065,
-    "timeMonth": 1067,
+    "timeMonth": 1062,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2024-12-30": 228,
+      "2024-12-30": 219,
       "2024-12-29": 276,
       "2024-12-28": 263,
       "2024-12-27": 301,
@@ -195,7 +195,7 @@
       "2024-12-20": 135,
       "2024-12-19": 159,
       "2024-12-18": 213,
-      "2024-12-17": 56
+      "2024-12-17": 78
     }
   },
   {
@@ -210,9 +210,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1143,
-    "timeDay": 1587,
+    "timeDay": 1545,
     "timeWeek": 1287,
-    "timeMonth": 1194,
+    "timeMonth": 1181,
     "timeYear": 1143,
     "dailyMinutesDown": {}
   },
@@ -228,9 +228,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1133,
-    "timeDay": 1342,
+    "timeDay": 1256,
     "timeWeek": 1140,
-    "timeMonth": 1184,
+    "timeMonth": 1174,
     "timeYear": 1133,
     "dailyMinutesDown": {}
   }
