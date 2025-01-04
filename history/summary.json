@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakcbevmvw9p.xn--p1ai.ico",
     "slug": "pedacademy",
     "status": "up",
-    "uptime": "93.60%",
-    "uptimeDay": "80.22%",
-    "uptimeWeek": "79.11%",
-    "uptimeMonth": "91.51%",
-    "uptimeYear": "93.60%",
+    "uptime": "93.54%",
+    "uptimeDay": "85.16%",
+    "uptimeWeek": "79.54%",
+    "uptimeMonth": "91.42%",
+    "uptimeYear": "93.54%",
     "time": 1301,
-    "timeDay": 1160,
-    "timeWeek": 1176,
+    "timeDay": 1196,
+    "timeWeek": 1169,
     "timeMonth": 1346,
     "timeYear": 1301,
     "dailyMinutesDown": {
-      "2025-01-03": 275,
+      "2025-01-03": 261,
       "2025-01-02": 488,
       "2025-01-01": 237,
       "2024-12-31": 297,
@@ -48,7 +48,7 @@
       "2024-12-25": 337,
       "2024-12-24": 288,
       "2024-12-23": 261,
-      "2024-12-22": 166
+      "2024-12-22": 221
     }
   },
   {
@@ -58,17 +58,17 @@
     "slug": "pedproject",
     "status": "up",
     "uptime": "93.57%",
-    "uptimeDay": "81.42%",
-    "uptimeWeek": "79.39%",
-    "uptimeMonth": "91.48%",
+    "uptimeDay": "86.32%",
+    "uptimeWeek": "79.82%",
+    "uptimeMonth": "91.46%",
     "uptimeYear": "93.57%",
     "time": 1229,
-    "timeDay": 1233,
-    "timeWeek": 1149,
+    "timeDay": 1250,
+    "timeWeek": 1151,
     "timeMonth": 1243,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2025-01-03": 258,
+      "2025-01-03": 244,
       "2025-01-02": 484,
       "2025-01-01": 236,
       "2024-12-31": 291,
@@ -80,7 +80,7 @@
       "2024-12-25": 337,
       "2024-12-24": 283,
       "2024-12-23": 260,
-      "2024-12-22": 220
+      "2024-12-22": 241
     }
   },
   {
@@ -108,17 +108,17 @@
     "slug": "pedtalant",
     "status": "up",
     "uptime": "93.61%",
-    "uptimeDay": "81.58%",
-    "uptimeWeek": "79.52%",
-    "uptimeMonth": "91.53%",
+    "uptimeDay": "86.45%",
+    "uptimeWeek": "79.95%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "93.61%",
     "time": 1156,
-    "timeDay": 1079,
-    "timeWeek": 1065,
+    "timeDay": 1091,
+    "timeWeek": 1067,
     "timeMonth": 1194,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2025-01-03": 256,
+      "2025-01-03": 243,
       "2025-01-02": 482,
       "2025-01-01": 236,
       "2024-12-31": 290,
@@ -130,7 +130,7 @@
       "2024-12-25": 336,
       "2024-12-24": 280,
       "2024-12-23": 255,
-      "2024-12-22": 220
+      "2024-12-22": 241
     }
   },
   {
@@ -139,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "rainbow",
     "status": "up",
-    "uptime": "93.66%",
-    "uptimeDay": "81.73%",
-    "uptimeWeek": "79.65%",
-    "uptimeMonth": "91.59%",
-    "uptimeYear": "93.66%",
+    "uptime": "93.65%",
+    "uptimeDay": "86.56%",
+    "uptimeWeek": "80.08%",
+    "uptimeMonth": "91.57%",
+    "uptimeYear": "93.65%",
     "time": 1140,
-    "timeDay": 1207,
-    "timeWeek": 1050,
+    "timeDay": 1213,
+    "timeWeek": 1053,
     "timeMonth": 1170,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2025-01-03": 252,
+      "2025-01-03": 239,
       "2025-01-02": 480,
       "2025-01-01": 236,
       "2024-12-31": 290,
@@ -162,7 +162,7 @@
       "2024-12-25": 334,
       "2024-12-24": 279,
       "2024-12-23": 254,
-      "2024-12-22": 219
+      "2024-12-22": 240
     }
   },
   {
@@ -172,17 +172,17 @@
     "slug": "everest",
     "status": "up",
     "uptime": "93.66%",
-    "uptimeDay": "81.88%",
-    "uptimeWeek": "79.78%",
-    "uptimeMonth": "91.60%",
+    "uptimeDay": "86.68%",
+    "uptimeWeek": "80.21%",
+    "uptimeMonth": "91.57%",
     "uptimeYear": "93.66%",
     "time": 1041,
-    "timeDay": 1084,
-    "timeWeek": 997,
+    "timeDay": 1068,
+    "timeWeek": 999,
     "timeMonth": 1070,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2025-01-03": 252,
+      "2025-01-03": 239,
       "2025-01-02": 477,
       "2025-01-01": 235,
       "2024-12-31": 288,
@@ -195,7 +195,7 @@
       "2024-12-24": 263,
       "2024-12-23": 236,
       "2024-12-22": 235,
-      "2024-12-21": 60
+      "2024-12-21": 84
     }
   },
   {
