@@ -26,17 +26,17 @@
     "slug": "pedacademy",
     "status": "up",
     "uptime": "94.23%",
-    "uptimeDay": "83.85%",
-    "uptimeWeek": "80.53%",
-    "uptimeMonth": "91.21%",
+    "uptimeDay": "84.79%",
+    "uptimeWeek": "81.23%",
+    "uptimeMonth": "91.19%",
     "uptimeYear": "94.23%",
     "time": 1280,
-    "timeDay": 1081,
-    "timeWeek": 1140,
+    "timeDay": 1100,
+    "timeWeek": 1145,
     "timeMonth": 1295,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2025-01-09": 233,
+      "2025-01-09": 219,
       "2025-01-08": 319,
       "2025-01-07": 386,
       "2025-01-06": 151,
@@ -49,7 +49,7 @@
       "2024-12-30": 226,
       "2024-12-29": 283,
       "2024-12-28": 272,
-      "2024-12-27": 97
+      "2024-12-27": 118
     }
   },
   {
@@ -58,18 +58,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--d1abbusdciv.xn--p1ai.ico",
     "slug": "pedproject",
     "status": "up",
-    "uptime": "94.24%",
-    "uptimeDay": "83.97%",
-    "uptimeWeek": "80.95%",
-    "uptimeMonth": "91.22%",
-    "uptimeYear": "94.24%",
+    "uptime": "94.23%",
+    "uptimeDay": "84.90%",
+    "uptimeWeek": "81.64%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "94.23%",
     "time": 1229,
-    "timeDay": 1106,
-    "timeWeek": 1229,
+    "timeDay": 1122,
+    "timeWeek": 1232,
     "timeMonth": 1248,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2025-01-09": 231,
+      "2025-01-09": 218,
       "2025-01-08": 301,
       "2025-01-07": 386,
       "2025-01-06": 150,
@@ -82,7 +82,7 @@
       "2024-12-30": 223,
       "2024-12-29": 281,
       "2024-12-28": 272,
-      "2024-12-27": 142
+      "2024-12-27": 170
     }
   },
   {
@@ -109,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakd6ani0ae.xn--p1ai.ico",
     "slug": "pedtalant",
     "status": "up",
-    "uptime": "94.26%",
-    "uptimeDay": "84.10%",
-    "uptimeWeek": "81.22%",
-    "uptimeMonth": "91.25%",
-    "uptimeYear": "94.26%",
+    "uptime": "94.08%",
+    "uptimeDay": "85.00%",
+    "uptimeWeek": "81.91%",
+    "uptimeMonth": "90.97%",
+    "uptimeYear": "94.08%",
     "time": 1143,
-    "timeDay": 942,
-    "timeWeek": 1055,
+    "timeDay": 961,
+    "timeWeek": 1056,
     "timeMonth": 1090,
     "timeYear": 1143,
     "dailyMinutesDown": {
-      "2025-01-09": 229,
+      "2025-01-09": 216,
       "2025-01-08": 298,
       "2025-01-07": 369,
       "2025-01-06": 149,
@@ -133,7 +133,7 @@
       "2024-12-30": 221,
       "2024-12-29": 280,
       "2024-12-28": 271,
-      "2024-12-27": 170
+      "2024-12-27": 304
     }
   },
   {
@@ -142,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "rainbow",
     "status": "up",
-    "uptime": "94.12%",
-    "uptimeDay": "84.22%",
-    "uptimeWeek": "81.49%",
-    "uptimeMonth": "91.04%",
-    "uptimeYear": "94.12%",
+    "uptime": "94.10%",
+    "uptimeDay": "85.11%",
+    "uptimeWeek": "82.17%",
+    "uptimeMonth": "91.01%",
+    "uptimeYear": "94.10%",
     "time": 1128,
-    "timeDay": 935,
-    "timeWeek": 1067,
+    "timeDay": 944,
+    "timeWeek": 1066,
     "timeMonth": 1142,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2025-01-09": 227,
+      "2025-01-09": 214,
       "2025-01-08": 280,
       "2025-01-07": 366,
       "2025-01-06": 148,
@@ -166,7 +166,8 @@
       "2024-12-30": 220,
       "2024-12-29": 277,
       "2024-12-28": 269,
-      "2024-12-27": 303
+      "2024-12-27": 303,
+      "2024-12-26": 26
     }
   },
   {
@@ -175,18 +176,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/everest-edu.ru.ico",
     "slug": "everest",
     "status": "up",
-    "uptime": "94.15%",
-    "uptimeDay": "84.34%",
-    "uptimeWeek": "81.60%",
-    "uptimeMonth": "91.09%",
-    "uptimeYear": "94.15%",
+    "uptime": "94.14%",
+    "uptimeDay": "85.21%",
+    "uptimeWeek": "82.28%",
+    "uptimeMonth": "91.06%",
+    "uptimeYear": "94.14%",
     "time": 1036,
-    "timeDay": 898,
-    "timeWeek": 1016,
+    "timeDay": 902,
+    "timeWeek": 1014,
     "timeMonth": 1042,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2025-01-09": 226,
+      "2025-01-09": 213,
       "2025-01-08": 280,
       "2025-01-07": 366,
       "2025-01-06": 145,
@@ -199,7 +200,8 @@
       "2024-12-30": 219,
       "2024-12-29": 276,
       "2024-12-28": 263,
-      "2024-12-27": 301
+      "2024-12-27": 301,
+      "2024-12-26": 26
     }
   },
   {
