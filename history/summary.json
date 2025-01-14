@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakcbevmvw9p.xn--p1ai.ico",
     "slug": "pedacademy",
     "status": "up",
-    "uptime": "94.68%",
-    "uptimeDay": "80.89%",
-    "uptimeWeek": "79.87%",
-    "uptimeMonth": "91.19%",
-    "uptimeYear": "94.68%",
+    "uptime": "94.67%",
+    "uptimeDay": "83.05%",
+    "uptimeWeek": "80.52%",
+    "uptimeMonth": "91.17%",
+    "uptimeYear": "94.67%",
     "time": 1266,
-    "timeDay": 965,
+    "timeDay": 986,
     "timeWeek": 1097,
-    "timeMonth": 1211,
+    "timeMonth": 1212,
     "timeYear": 1266,
     "dailyMinutesDown": {
-      "2025-01-13": 248,
+      "2025-01-13": 244,
       "2025-01-12": 319,
       "2025-01-11": 318,
       "2025-01-10": 216,
@@ -49,7 +49,7 @@
       "2025-01-03": 261,
       "2025-01-02": 488,
       "2025-01-01": 237,
-      "2024-12-31": 95
+      "2024-12-31": 111
     }
   },
   {
@@ -58,18 +58,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--d1abbusdciv.xn--p1ai.ico",
     "slug": "pedproject",
     "status": "up",
-    "uptime": "94.62%",
-    "uptimeDay": "81.04%",
-    "uptimeWeek": "80.15%",
-    "uptimeMonth": "91.10%",
-    "uptimeYear": "94.62%",
+    "uptime": "94.59%",
+    "uptimeDay": "83.17%",
+    "uptimeWeek": "80.79%",
+    "uptimeMonth": "91.03%",
+    "uptimeYear": "94.59%",
     "time": 1220,
-    "timeDay": 1060,
+    "timeDay": 1087,
     "timeWeek": 1184,
-    "timeMonth": 1251,
+    "timeMonth": 1252,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2025-01-13": 246,
+      "2025-01-13": 242,
       "2025-01-12": 319,
       "2025-01-11": 315,
       "2025-01-10": 213,
@@ -82,7 +82,7 @@
       "2025-01-03": 244,
       "2025-01-02": 484,
       "2025-01-01": 236,
-      "2024-12-31": 188
+      "2024-12-31": 221
     }
   },
   {
@@ -109,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakd6ani0ae.xn--p1ai.ico",
     "slug": "pedtalant",
     "status": "up",
-    "uptime": "94.63%",
-    "uptimeDay": "81.19%",
-    "uptimeWeek": "80.43%",
-    "uptimeMonth": "91.11%",
-    "uptimeYear": "94.63%",
+    "uptime": "94.61%",
+    "uptimeDay": "83.29%",
+    "uptimeWeek": "81.07%",
+    "uptimeMonth": "91.06%",
+    "uptimeYear": "94.61%",
     "time": 1140,
-    "timeDay": 1100,
+    "timeDay": 1125,
     "timeWeek": 1068,
-    "timeMonth": 1091,
+    "timeMonth": 1092,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2025-01-13": 245,
+      "2025-01-13": 241,
       "2025-01-12": 314,
       "2025-01-11": 311,
       "2025-01-10": 211,
@@ -133,7 +133,7 @@
       "2025-01-03": 243,
       "2025-01-02": 482,
       "2025-01-01": 236,
-      "2024-12-31": 220
+      "2024-12-31": 246
     }
   },
   {
@@ -142,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "rainbow",
     "status": "up",
-    "uptime": "94.65%",
-    "uptimeDay": "81.35%",
-    "uptimeWeek": "80.71%",
-    "uptimeMonth": "91.14%",
-    "uptimeYear": "94.65%",
+    "uptime": "94.62%",
+    "uptimeDay": "83.41%",
+    "uptimeWeek": "81.34%",
+    "uptimeMonth": "91.09%",
+    "uptimeYear": "94.62%",
     "time": 1154,
-    "timeDay": 984,
+    "timeDay": 998,
     "timeWeek": 1265,
-    "timeMonth": 1191,
+    "timeMonth": 1190,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2025-01-13": 242,
+      "2025-01-13": 239,
       "2025-01-12": 313,
       "2025-01-11": 310,
       "2025-01-10": 209,
@@ -166,7 +166,7 @@
       "2025-01-03": 239,
       "2025-01-02": 480,
       "2025-01-01": 236,
-      "2024-12-31": 246
+      "2024-12-31": 274
     }
   },
   {
@@ -175,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/everest-edu.ru.ico",
     "slug": "everest",
     "status": "up",
-    "uptime": "94.68%",
-    "uptimeDay": "81.50%",
-    "uptimeWeek": "80.83%",
-    "uptimeMonth": "91.20%",
-    "uptimeYear": "94.68%",
+    "uptime": "94.66%",
+    "uptimeDay": "83.53%",
+    "uptimeWeek": "81.46%",
+    "uptimeMonth": "91.14%",
+    "uptimeYear": "94.66%",
     "time": 1033,
-    "timeDay": 912,
+    "timeDay": 913,
     "timeWeek": 983,
     "timeMonth": 1024,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2025-01-13": 241,
+      "2025-01-13": 238,
       "2025-01-12": 311,
       "2025-01-11": 309,
       "2025-01-10": 209,
@@ -199,7 +199,7 @@
       "2025-01-03": 239,
       "2025-01-02": 477,
       "2025-01-01": 235,
-      "2024-12-31": 245
+      "2024-12-31": 273
     }
   },
   {
