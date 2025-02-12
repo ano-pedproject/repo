@@ -31,7 +31,7 @@
     "uptimeMonth": "93.24%",
     "uptimeYear": "97.41%",
     "time": 1236,
-    "timeDay": 1073,
+    "timeDay": 1083,
     "timeWeek": 1199,
     "timeMonth": 1170,
     "timeYear": 1236,
@@ -66,9 +66,9 @@
     "uptimeMonth": "93.09%",
     "uptimeYear": "97.35%",
     "time": 1222,
-    "timeDay": 1098,
+    "timeDay": 1092,
     "timeWeek": 1275,
-    "timeMonth": 1221,
+    "timeMonth": 1222,
     "timeYear": 1222,
     "dailyMinutesDown": {
       "2025-02-11": 119,
@@ -114,17 +114,17 @@
     "slug": "pedtalant",
     "status": "up",
     "uptime": "97.42%",
-    "uptimeDay": "92.84%",
-    "uptimeWeek": "88.91%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "89.05%",
+    "uptimeMonth": "93.26%",
     "uptimeYear": "97.42%",
     "time": 1128,
-    "timeDay": 1012,
+    "timeDay": 1034,
     "timeWeek": 1044,
     "timeMonth": 1107,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2025-02-11": 103,
+      "2025-02-11": 88,
       "2025-02-10": 192,
       "2025-02-09": 163,
       "2025-02-08": 156,
@@ -139,7 +139,7 @@
       "2025-01-30": 210,
       "2025-01-29": 184,
       "2025-01-28": 55,
-      "2025-01-27": 165
+      "2025-01-27": 187
     }
   },
   {
@@ -148,18 +148,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "rainbow",
     "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "89.30%",
-    "uptimeMonth": "93.16%",
-    "uptimeYear": "97.38%",
+    "uptime": "97.37%",
+    "uptimeDay": "93.94%",
+    "uptimeWeek": "89.45%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "97.37%",
     "time": 1134,
-    "timeDay": 968,
+    "timeDay": 987,
     "timeWeek": 1059,
     "timeMonth": 1148,
     "timeYear": 1134,
     "dailyMinutesDown": {
-      "2025-02-11": 103,
+      "2025-02-11": 88,
       "2025-02-10": 190,
       "2025-02-09": 145,
       "2025-02-08": 155,
@@ -174,7 +174,7 @@
       "2025-01-30": 208,
       "2025-01-29": 183,
       "2025-01-28": 54,
-      "2025-01-27": 282
+      "2025-01-27": 307
     }
   },
   {
@@ -184,17 +184,17 @@
     "slug": "everest",
     "status": "up",
     "uptime": "97.39%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "89.40%",
+    "uptimeDay": "94.00%",
+    "uptimeWeek": "89.54%",
     "uptimeMonth": "93.19%",
     "uptimeYear": "97.39%",
     "time": 1027,
-    "timeDay": 954,
+    "timeDay": 961,
     "timeWeek": 991,
     "timeMonth": 1016,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2025-02-11": 101,
+      "2025-02-11": 87,
       "2025-02-10": 188,
       "2025-02-09": 145,
       "2025-02-08": 155,
@@ -209,7 +209,8 @@
       "2025-01-30": 192,
       "2025-01-29": 182,
       "2025-01-28": 52,
-      "2025-01-27": 305
+      "2025-01-27": 305,
+      "2025-01-26": 17
     }
   },
   {
