@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakcbevmvw9p.xn--p1ai.ico",
     "slug": "pedacademy",
     "status": "up",
-    "uptime": "97.47%",
-    "uptimeDay": "82.68%",
-    "uptimeWeek": "88.24%",
-    "uptimeMonth": "93.32%",
-    "uptimeYear": "97.47%",
+    "uptime": "97.46%",
+    "uptimeDay": "83.55%",
+    "uptimeWeek": "88.36%",
+    "uptimeMonth": "93.28%",
+    "uptimeYear": "97.46%",
     "time": 1236,
     "timeDay": 1247,
     "timeWeek": 1168,
     "timeMonth": 1175,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2025-02-12": 251,
+      "2025-02-12": 238,
       "2025-02-11": 121,
       "2025-02-10": 194,
       "2025-02-09": 166,
@@ -50,7 +50,7 @@
       "2025-02-01": 202,
       "2025-01-31": 350,
       "2025-01-30": 214,
-      "2025-01-29": 78
+      "2025-01-29": 105
     }
   },
   {
@@ -112,9 +112,9 @@
     "slug": "pedtalant",
     "status": "up",
     "uptime": "97.45%",
-    "uptimeDay": "84.00%",
-    "uptimeWeek": "88.89%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "84.84%",
+    "uptimeWeek": "89.01%",
+    "uptimeMonth": "93.25%",
     "uptimeYear": "97.45%",
     "time": 1131,
     "timeDay": 1364,
@@ -122,7 +122,7 @@
     "timeMonth": 1116,
     "timeYear": 1131,
     "dailyMinutesDown": {
-      "2025-02-12": 230,
+      "2025-02-12": 218,
       "2025-02-11": 88,
       "2025-02-10": 192,
       "2025-02-09": 163,
@@ -137,7 +137,7 @@
       "2025-01-31": 347,
       "2025-01-30": 210,
       "2025-01-29": 184,
-      "2025-01-28": 11
+      "2025-01-28": 28
     }
   },
   {
@@ -147,9 +147,9 @@
     "slug": "rainbow",
     "status": "up",
     "uptime": "97.43%",
-    "uptimeDay": "84.13%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "93.21%",
+    "uptimeDay": "84.96%",
+    "uptimeWeek": "89.40%",
+    "uptimeMonth": "93.20%",
     "uptimeYear": "97.43%",
     "time": 1136,
     "timeDay": 1276,
@@ -157,7 +157,7 @@
     "timeMonth": 1099,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2025-02-12": 228,
+      "2025-02-12": 216,
       "2025-02-11": 88,
       "2025-02-10": 190,
       "2025-02-09": 145,
@@ -173,7 +173,7 @@
       "2025-01-30": 208,
       "2025-01-29": 183,
       "2025-01-28": 54,
-      "2025-01-27": 46
+      "2025-01-27": 65
     }
   },
   {
@@ -182,18 +182,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/everest-edu.ru.ico",
     "slug": "everest",
     "status": "up",
-    "uptime": "97.45%",
-    "uptimeDay": "84.27%",
-    "uptimeWeek": "89.37%",
-    "uptimeMonth": "93.26%",
-    "uptimeYear": "97.45%",
+    "uptime": "97.44%",
+    "uptimeDay": "85.08%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "93.24%",
+    "uptimeYear": "97.44%",
     "time": 1028,
     "timeDay": 1087,
     "timeWeek": 1004,
     "timeMonth": 1016,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2025-02-12": 228,
+      "2025-02-12": 216,
       "2025-02-11": 87,
       "2025-02-10": 188,
       "2025-02-09": 145,
@@ -209,7 +209,7 @@
       "2025-01-30": 192,
       "2025-01-29": 182,
       "2025-01-28": 52,
-      "2025-01-27": 64
+      "2025-01-27": 85
     }
   },
   {
