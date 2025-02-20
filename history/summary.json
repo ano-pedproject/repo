@@ -24,18 +24,19 @@
     "url": "https://xn--80aakcbevmvw9p.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakcbevmvw9p.xn--p1ai.ico",
     "slug": "pedacademy",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "81.63%",
+    "status": "down",
+    "uptime": "97.55%",
+    "uptimeDay": "87.62%",
     "uptimeWeek": "83.39%",
-    "uptimeMonth": "92.91%",
-    "uptimeYear": "97.53%",
+    "uptimeMonth": "92.95%",
+    "uptimeYear": "97.55%",
     "time": 1229,
-    "timeDay": 1275,
+    "timeDay": 1280,
     "timeWeek": 1135,
     "timeMonth": 1181,
     "timeYear": 1229,
     "dailyMinutesDown": {
+      "2025-02-20": 1,
       "2025-02-19": 269,
       "2025-02-18": 203,
       "2025-02-17": 292,
@@ -51,7 +52,7 @@
       "2025-02-07": 133,
       "2025-02-06": 166,
       "2025-02-05": 217,
-      "2025-02-04": 39
+      "2025-02-04": 20
     }
   },
   {
@@ -59,18 +60,19 @@
     "url": "https://xn--d1abbusdciv.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn--d1abbusdciv.xn--p1ai.ico",
     "slug": "pedproject",
-    "status": "up",
-    "uptime": "97.29%",
-    "uptimeDay": "82.78%",
+    "status": "down",
+    "uptime": "97.31%",
+    "uptimeDay": "88.77%",
     "uptimeWeek": "83.80%",
-    "uptimeMonth": "92.20%",
-    "uptimeYear": "97.29%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "97.31%",
     "time": 1225,
-    "timeDay": 1398,
+    "timeDay": 1424,
     "timeWeek": 1273,
     "timeMonth": 1244,
     "timeYear": 1225,
     "dailyMinutesDown": {
+      "2025-02-20": 1,
       "2025-02-19": 254,
       "2025-02-18": 201,
       "2025-02-17": 292,
@@ -86,7 +88,7 @@
       "2025-02-07": 130,
       "2025-02-06": 163,
       "2025-02-05": 216,
-      "2025-02-04": 89
+      "2025-02-04": 61
     }
   },
   {
@@ -112,18 +114,19 @@
     "url": "https://xn--80aakd6ani0ae.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakd6ani0ae.xn--p1ai.ico",
     "slug": "pedtalant",
-    "status": "up",
-    "uptime": "97.51%",
-    "uptimeDay": "82.89%",
-    "uptimeWeek": "83.91%",
-    "uptimeMonth": "92.83%",
-    "uptimeYear": "97.51%",
+    "status": "down",
+    "uptime": "97.55%",
+    "uptimeDay": "88.87%",
+    "uptimeWeek": "83.92%",
+    "uptimeMonth": "92.95%",
+    "uptimeYear": "97.55%",
     "time": 1131,
-    "timeDay": 1253,
+    "timeDay": 1265,
     "timeWeek": 1131,
     "timeMonth": 1113,
     "timeYear": 1131,
     "dailyMinutesDown": {
+      "2025-02-20": 1,
       "2025-02-19": 251,
       "2025-02-18": 199,
       "2025-02-17": 290,
@@ -139,7 +142,7 @@
       "2025-02-07": 129,
       "2025-02-06": 162,
       "2025-02-05": 214,
-      "2025-02-04": 196
+      "2025-02-04": 144
     }
   },
   {
@@ -147,18 +150,19 @@
     "url": "https://xn----7sbabamch1evalo5aeg.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "rainbow",
-    "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "83.00%",
-    "uptimeWeek": "84.02%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "97.46%",
+    "status": "down",
+    "uptime": "97.53%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "84.03%",
+    "uptimeMonth": "92.89%",
+    "uptimeYear": "97.53%",
     "time": 1133,
-    "timeDay": 1142,
+    "timeDay": 1120,
     "timeWeek": 1098,
     "timeMonth": 1104,
     "timeYear": 1133,
     "dailyMinutesDown": {
+      "2025-02-20": 1,
       "2025-02-19": 249,
       "2025-02-18": 199,
       "2025-02-17": 289,
@@ -174,7 +178,7 @@
       "2025-02-07": 128,
       "2025-02-06": 145,
       "2025-02-05": 212,
-      "2025-02-04": 305
+      "2025-02-04": 224
     }
   },
   {
@@ -182,18 +186,19 @@
     "url": "https://everest-edu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/everest-edu.ru.ico",
     "slug": "everest",
-    "status": "up",
-    "uptime": "97.48%",
-    "uptimeDay": "83.11%",
-    "uptimeWeek": "84.13%",
-    "uptimeMonth": "92.76%",
-    "uptimeYear": "97.48%",
+    "status": "down",
+    "uptime": "97.55%",
+    "uptimeDay": "89.08%",
+    "uptimeWeek": "84.14%",
+    "uptimeMonth": "92.94%",
+    "uptimeYear": "97.55%",
     "time": 1026,
-    "timeDay": 1060,
+    "timeDay": 1071,
     "timeWeek": 995,
     "timeMonth": 997,
     "timeYear": 1026,
     "dailyMinutesDown": {
+      "2025-02-20": 1,
       "2025-02-19": 247,
       "2025-02-18": 197,
       "2025-02-17": 286,
@@ -209,7 +214,7 @@
       "2025-02-07": 128,
       "2025-02-06": 145,
       "2025-02-05": 209,
-      "2025-02-04": 303
+      "2025-02-04": 222
     }
   },
   {
