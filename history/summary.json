@@ -26,17 +26,17 @@
     "slug": "pedacademy",
     "status": "up",
     "uptime": "97.50%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "81.71%",
+    "uptimeDay": "94.61%",
+    "uptimeWeek": "82.54%",
     "uptimeMonth": "92.48%",
     "uptimeYear": "97.50%",
     "time": 1222,
     "timeDay": 1125,
     "timeWeek": 1111,
-    "timeMonth": 1166,
+    "timeMonth": 1167,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2025-02-23": 151,
+      "2025-02-23": 137,
       "2025-02-22": 192,
       "2025-02-21": 342,
       "2025-02-20": 381,
@@ -49,7 +49,8 @@
       "2025-02-13": 338,
       "2025-02-12": 238,
       "2025-02-11": 121,
-      "2025-02-10": 194
+      "2025-02-10": 194,
+      "2025-02-09": 16
     }
   },
   {
@@ -58,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--d1abbusdciv.xn--p1ai.ico",
     "slug": "pedproject",
     "status": "up",
-    "uptime": "97.35%",
-    "uptimeDay": "89.08%",
-    "uptimeWeek": "81.99%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "97.35%",
+    "uptime": "97.31%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "82.82%",
+    "uptimeMonth": "91.92%",
+    "uptimeYear": "97.31%",
     "time": 1222,
     "timeDay": 1073,
     "timeWeek": 1216,
-    "timeMonth": 1245,
+    "timeMonth": 1243,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2025-02-23": 151,
+      "2025-02-23": 137,
       "2025-02-22": 189,
       "2025-02-21": 340,
       "2025-02-20": 378,
@@ -83,7 +84,7 @@
       "2025-02-12": 429,
       "2025-02-11": 119,
       "2025-02-10": 193,
-      "2025-02-09": 54
+      "2025-02-09": 117
     }
   },
   {
@@ -111,17 +112,17 @@
     "slug": "pedtalant",
     "status": "up",
     "uptime": "97.48%",
-    "uptimeDay": "89.15%",
-    "uptimeWeek": "82.27%",
-    "uptimeMonth": "92.43%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "83.09%",
+    "uptimeMonth": "92.42%",
     "uptimeYear": "97.48%",
     "time": 1130,
     "timeDay": 1164,
     "timeWeek": 1155,
-    "timeMonth": 1110,
+    "timeMonth": 1111,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2025-02-23": 150,
+      "2025-02-23": 136,
       "2025-02-22": 188,
       "2025-02-21": 339,
       "2025-02-20": 360,
@@ -135,7 +136,8 @@
       "2025-02-12": 218,
       "2025-02-11": 88,
       "2025-02-10": 192,
-      "2025-02-09": 163
+      "2025-02-09": 163,
+      "2025-02-08": 16
     }
   },
   {
@@ -144,18 +146,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "rainbow",
     "status": "up",
-    "uptime": "97.50%",
-    "uptimeDay": "89.22%",
-    "uptimeWeek": "82.40%",
-    "uptimeMonth": "92.48%",
-    "uptimeYear": "97.50%",
+    "uptime": "97.49%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "83.22%",
+    "uptimeMonth": "92.46%",
+    "uptimeYear": "97.49%",
     "time": 1129,
     "timeDay": 1090,
     "timeWeek": 1104,
-    "timeMonth": 1098,
+    "timeMonth": 1099,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2025-02-23": 148,
+      "2025-02-23": 135,
       "2025-02-22": 185,
       "2025-02-21": 336,
       "2025-02-20": 358,
@@ -170,7 +172,7 @@
       "2025-02-11": 88,
       "2025-02-10": 190,
       "2025-02-09": 145,
-      "2025-02-08": 16
+      "2025-02-08": 36
     }
   },
   {
@@ -180,17 +182,17 @@
     "slug": "everest",
     "status": "up",
     "uptime": "97.51%",
-    "uptimeDay": "89.28%",
-    "uptimeWeek": "82.53%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "83.34%",
+    "uptimeMonth": "92.52%",
     "uptimeYear": "97.51%",
     "time": 1026,
     "timeDay": 1161,
     "timeWeek": 1028,
-    "timeMonth": 999,
+    "timeMonth": 998,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2025-02-23": 148,
+      "2025-02-23": 135,
       "2025-02-22": 185,
       "2025-02-21": 333,
       "2025-02-20": 353,
@@ -205,7 +207,7 @@
       "2025-02-11": 87,
       "2025-02-10": 188,
       "2025-02-09": 145,
-      "2025-02-08": 16
+      "2025-02-08": 36
     }
   },
   {
