@@ -27,17 +27,17 @@
     "slug": "pedacademy",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "78.95%",
-    "uptimeWeek": "80.09%",
-    "uptimeMonth": "92.50%",
+    "uptimeDay": "79.98%",
+    "uptimeWeek": "80.26%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "98.02%",
     "time": 1211,
-    "timeDay": 1085,
+    "timeDay": 1111,
     "timeWeek": 1130,
     "timeMonth": 1150,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2025-03-19": 302,
+      "2025-03-19": 287,
       "2025-03-18": 197,
       "2025-03-17": 186,
       "2025-03-16": 282,
@@ -50,7 +50,7 @@
       "2025-03-09": 162,
       "2025-03-08": 233,
       "2025-03-07": 214,
-      "2025-03-06": 133
+      "2025-03-06": 161
     }
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--d1abbusdciv.xn--p1ai.ico",
     "slug": "pedproject",
     "status": "up",
-    "uptime": "98.03%",
-    "uptimeDay": "79.08%",
-    "uptimeWeek": "80.39%",
-    "uptimeMonth": "92.53%",
-    "uptimeYear": "98.03%",
+    "uptime": "98.02%",
+    "uptimeDay": "80.10%",
+    "uptimeWeek": "80.55%",
+    "uptimeMonth": "92.49%",
+    "uptimeYear": "98.02%",
     "time": 1228,
-    "timeDay": 1053,
+    "timeDay": 1080,
     "timeWeek": 1169,
-    "timeMonth": 1241,
+    "timeMonth": 1239,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2025-03-19": 301,
+      "2025-03-19": 286,
       "2025-03-18": 181,
       "2025-03-17": 185,
       "2025-03-16": 282,
@@ -83,7 +83,7 @@
       "2025-03-09": 161,
       "2025-03-08": 234,
       "2025-03-07": 211,
-      "2025-03-06": 159
+      "2025-03-06": 192
     }
   },
   {
@@ -112,18 +112,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakd6ani0ae.xn--p1ai.ico",
     "slug": "pedtalant",
     "status": "up",
-    "uptime": "98.03%",
-    "uptimeDay": "79.22%",
-    "uptimeWeek": "80.83%",
-    "uptimeMonth": "92.53%",
-    "uptimeYear": "98.03%",
+    "uptime": "98.02%",
+    "uptimeDay": "80.22%",
+    "uptimeWeek": "80.99%",
+    "uptimeMonth": "92.51%",
+    "uptimeYear": "98.02%",
     "time": 1147,
-    "timeDay": 953,
+    "timeDay": 966,
     "timeWeek": 1088,
     "timeMonth": 1202,
     "timeYear": 1147,
     "dailyMinutesDown": {
-      "2025-03-19": 299,
+      "2025-03-19": 285,
       "2025-03-18": 178,
       "2025-03-17": 181,
       "2025-03-16": 282,
@@ -136,7 +136,7 @@
       "2025-03-09": 159,
       "2025-03-08": 233,
       "2025-03-07": 208,
-      "2025-03-06": 208
+      "2025-03-06": 235
     }
   },
   {
@@ -145,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbabamch1evalo5aeg.xn--p1ai.ico",
     "slug": "rainbow",
     "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "79.35%",
-    "uptimeWeek": "81.26%",
-    "uptimeMonth": "92.44%",
-    "uptimeYear": "98.01%",
+    "uptime": "98.00%",
+    "uptimeDay": "80.33%",
+    "uptimeWeek": "81.41%",
+    "uptimeMonth": "92.42%",
+    "uptimeYear": "98.00%",
     "time": 1129,
-    "timeDay": 1056,
+    "timeDay": 1045,
     "timeWeek": 1103,
-    "timeMonth": 1117,
+    "timeMonth": 1118,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2025-03-19": 298,
+      "2025-03-19": 284,
       "2025-03-18": 174,
       "2025-03-17": 181,
       "2025-03-16": 281,
@@ -169,7 +169,8 @@
       "2025-03-09": 158,
       "2025-03-08": 232,
       "2025-03-07": 207,
-      "2025-03-06": 302
+      "2025-03-06": 302,
+      "2025-03-05": 24
     }
   },
   {
@@ -178,18 +179,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/everest-edu.ru.ico",
     "slug": "everest",
     "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "79.48%",
-    "uptimeWeek": "81.54%",
-    "uptimeMonth": "92.46%",
-    "uptimeYear": "98.01%",
+    "uptime": "98.00%",
+    "uptimeDay": "80.44%",
+    "uptimeWeek": "81.69%",
+    "uptimeMonth": "92.43%",
+    "uptimeYear": "98.00%",
     "time": 1034,
-    "timeDay": 1018,
+    "timeDay": 1041,
     "timeWeek": 961,
     "timeMonth": 1062,
     "timeYear": 1034,
     "dailyMinutesDown": {
-      "2025-03-19": 294,
+      "2025-03-19": 280,
       "2025-03-18": 174,
       "2025-03-17": 180,
       "2025-03-16": 279,
@@ -203,7 +204,7 @@
       "2025-03-08": 231,
       "2025-03-07": 205,
       "2025-03-06": 300,
-      "2025-03-05": 47
+      "2025-03-05": 72
     }
   },
   {
