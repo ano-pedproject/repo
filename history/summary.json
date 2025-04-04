@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakcbevmvw9p.xn--p1ai.ico",
     "slug": "pedacademy",
     "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "92.01%",
-    "uptimeWeek": "86.83%",
-    "uptimeMonth": "92.35%",
-    "uptimeYear": "98.21%",
+    "uptime": "98.19%",
+    "uptimeDay": "92.91%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "98.19%",
     "time": 1202,
-    "timeDay": 1172,
-    "timeWeek": 1149,
+    "timeDay": 1174,
+    "timeWeek": 1148,
     "timeMonth": 1146,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2025-04-03": 115,
+      "2025-04-03": 102,
       "2025-04-02": 215,
       "2025-04-01": 93,
       "2025-03-31": 101,
@@ -51,7 +51,7 @@
       "2025-03-23": 176,
       "2025-03-22": 456,
       "2025-03-21": 344,
-      "2025-03-20": 96
+      "2025-03-20": 149
     }
   },
   {
@@ -61,17 +61,17 @@
     "slug": "pedproject",
     "status": "up",
     "uptime": "98.21%",
-    "uptimeDay": "92.09%",
-    "uptimeWeek": "87.08%",
-    "uptimeMonth": "92.34%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "87.20%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "98.21%",
     "time": 1216,
-    "timeDay": 1390,
-    "timeWeek": 1136,
+    "timeDay": 1418,
+    "timeWeek": 1137,
     "timeMonth": 1159,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2025-04-03": 114,
+      "2025-04-03": 101,
       "2025-04-02": 215,
       "2025-04-01": 92,
       "2025-03-31": 101,
@@ -85,7 +85,7 @@
       "2025-03-23": 175,
       "2025-03-22": 453,
       "2025-03-21": 341,
-      "2025-03-20": 149
+      "2025-03-20": 171
     }
   },
   {
@@ -114,18 +114,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--80aakd6ani0ae.xn--p1ai.ico",
     "slug": "pedtalant",
     "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "92.18%",
-    "uptimeWeek": "87.17%",
-    "uptimeMonth": "92.36%",
-    "uptimeYear": "98.22%",
+    "uptime": "98.21%",
+    "uptimeDay": "93.05%",
+    "uptimeWeek": "87.30%",
+    "uptimeMonth": "92.32%",
+    "uptimeYear": "98.21%",
     "time": 1136,
-    "timeDay": 945,
-    "timeWeek": 1083,
+    "timeDay": 929,
+    "timeWeek": 1082,
     "timeMonth": 1159,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2025-04-03": 113,
+      "2025-04-03": 101,
       "2025-04-02": 214,
       "2025-04-01": 91,
       "2025-03-31": 99,
@@ -139,7 +139,7 @@
       "2025-03-23": 175,
       "2025-03-22": 437,
       "2025-03-21": 335,
-      "2025-03-20": 170
+      "2025-03-20": 201
     }
   },
   {
@@ -149,17 +149,17 @@
     "slug": "rainbow",
     "status": "up",
     "uptime": "98.23%",
-    "uptimeDay": "92.26%",
-    "uptimeWeek": "87.27%",
-    "uptimeMonth": "92.44%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "87.39%",
+    "uptimeMonth": "92.39%",
     "uptimeYear": "98.23%",
     "time": 1123,
-    "timeDay": 1127,
+    "timeDay": 1101,
     "timeWeek": 1104,
     "timeMonth": 1102,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-04-03": 111,
+      "2025-04-03": 99,
       "2025-04-02": 211,
       "2025-04-01": 89,
       "2025-03-31": 97,
@@ -173,7 +173,7 @@
       "2025-03-23": 172,
       "2025-03-22": 435,
       "2025-03-21": 333,
-      "2025-03-20": 168
+      "2025-03-20": 199
     }
   },
   {
@@ -182,18 +182,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/everest-edu.ru.ico",
     "slug": "everest",
     "status": "up",
-    "uptime": "98.24%",
-    "uptimeDay": "92.34%",
-    "uptimeWeek": "87.37%",
-    "uptimeMonth": "92.44%",
-    "uptimeYear": "98.24%",
+    "uptime": "98.23%",
+    "uptimeDay": "93.18%",
+    "uptimeWeek": "87.49%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "98.23%",
     "time": 1032,
-    "timeDay": 963,
-    "timeWeek": 999,
+    "timeDay": 958,
+    "timeWeek": 997,
     "timeMonth": 1049,
     "timeYear": 1032,
     "dailyMinutesDown": {
-      "2025-04-03": 110,
+      "2025-04-03": 98,
       "2025-04-02": 208,
       "2025-04-01": 88,
       "2025-03-31": 97,
@@ -208,7 +208,7 @@
       "2025-03-22": 432,
       "2025-03-21": 301,
       "2025-03-20": 198,
-      "2025-03-19": 36
+      "2025-03-19": 69
     }
   },
   {
